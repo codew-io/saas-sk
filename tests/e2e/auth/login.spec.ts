@@ -9,8 +9,8 @@ const user = {
 } as const;
 
 const team = {
-  name: 'BoxyHQ',
-  slug: 'boxyhq',
+  name: 'LabelLinker',
+  slug: 'll',
 } as const;
 
 test('Should signup a new user', async ({ page }) => {

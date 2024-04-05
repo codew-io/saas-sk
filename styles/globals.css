@@ -33,6 +33,9 @@ a {
   box-sizing: border-box;
 }
 
+.input { 
+  height: 2rem;
+}
 @layer base {
   input:not([type='checkbox']):not([type='radio']),
   textarea {

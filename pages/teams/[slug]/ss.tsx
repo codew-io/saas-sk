@@ -10,7 +10,7 @@ const Products: NextPageWithLayout = () => {
     <div className="p-3">
     {/* <p className="text-sm">{t('product-placeholder')}</p> */}
 
-      <p className="text-sm">All my insights will appear here.</p>
+      <p className="text-sm">Create new Promo</p>
 
     </div>
   );
